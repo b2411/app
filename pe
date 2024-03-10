@@ -1,0 +1,12 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+            window.location.href = "https://play.google.com/store/apps/details?id=com.xuxu.video_chat";
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, <a href="https://play.google.com/store/apps/details?id=com.xuxu.video_chat">click here</a>.</p>
+</body>
+</html>
